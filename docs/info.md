@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The one bit adder takes 3 inputs, An, Bn and Cn-1 and the outputs are Sn and Cn. The logic states are 0 and 1 which are represented by LED OFF and LED ON respectively.
 
 ## How to test
 
-Explain how to use your project
+Toggle the switches to change the logic states of the inputs according to the truth table of a full adder from 000 through to 111 and see how the outputs Sn and Cn change.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED

@@ -15,6 +15,9 @@ The one bit adder takes 3 inputs, An, Bn and Cn-1 and the outputs are Sn and Cn.
 
 Toggle the switches to change the logic states of the inputs according to the truth table of a full adder from 000 through to 111 and see how the outputs Sn and Cn change.
 
+<img width="411" height="354" alt="image" src="https://github.com/user-attachments/assets/e7dc5208-cff6-4753-b1e2-325065ea2160" />
+
+
 ## External hardware
 
 LED
